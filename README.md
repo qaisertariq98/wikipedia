@@ -1,2 +1,2 @@
 # wikipedia
-published site:-https://github.com/qaisertariq98/wikipedia
+published site:-https://qaisertariq98.github.io/wikipedia/
